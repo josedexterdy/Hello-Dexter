@@ -1,2 +1,2 @@
-# Hello-Dexter
-My repository
+# Hello im Dexter
+i'm dexter and i'm handsome
